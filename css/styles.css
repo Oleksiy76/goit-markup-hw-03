@@ -81,6 +81,7 @@ body {
   display: block;
   padding-top: 24px;
   padding-bottom: 24px;
+  margin-right: 76px;
 }
 
 .header-logo-web {
@@ -103,7 +104,6 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--title-text-color);
-  margin-right: 76px;
 }
 
 .header-list {
